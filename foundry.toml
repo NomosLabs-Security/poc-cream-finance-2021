@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# CREAM Finance exploit — one block before the October 2021 attack
+fork_block_number = 13499798
